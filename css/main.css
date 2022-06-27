@@ -329,6 +329,7 @@ span {
   font-family: HKSemibold;
   color: var(--black);
   text-decoration: none;
+  display: block;
 }
 
 .cta-main a {
